@@ -1,4 +1,5 @@
-### Hi, I'm Dalton
+### Hi, I'm Dalton 👋
+
 **Bio:**
 Musician. Web Developer. 
 
